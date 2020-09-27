@@ -1,0 +1,1 @@
+{"ast":null,"code":"module.exports = {\n  title: 'Stackoverflow',\n  description: 'Where Developers Learn & Share',\n  siteUrl: 'https://clone-of-stackoverflow.vercel.app',\n  googleAnalytic: 'UA-149699646-1',\n  author: {\n    email: 'salihozdemir94@gmail.com',\n    name: 'Salih Özdemir'\n  },\n  lang: 'en'\n};","map":null,"metadata":{},"sourceType":"script"}
