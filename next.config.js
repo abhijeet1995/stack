@@ -1,6 +1,6 @@
 module.exports = {
   env: {
-    SITE_NAME: process.env.SITE_NAME
+    SITE_NAME: "https://behelmpe.herokuapp.com/"
   },
   target: 'serverless'
 }
