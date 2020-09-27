@@ -4314,7 +4314,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var axios__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! axios */ "axios");
 /* harmony import */ var axios__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(axios__WEBPACK_IMPORTED_MODULE_0__);
 
-const baseURL = true ? 'http://localhost:8080/api' : undefined;
+    const baseURL = true ? 'https://behelmpe.herokuapp.com/api' : undefined;
 const publicFetch = axios__WEBPACK_IMPORTED_MODULE_0___default.a.create({
   baseURL
 });

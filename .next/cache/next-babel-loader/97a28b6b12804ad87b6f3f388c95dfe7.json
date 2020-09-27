@@ -1,1 +1,1 @@
-{"ast":null,"code":"import axios from 'axios';\nconst baseURL = false ? 'http://localhost:8080/api' : `https://${process.env.SITE_NAME}/api`;\nconst publicFetch = axios.create({\n  baseURL\n});\nexport { publicFetch, baseURL };","map":null,"metadata":{},"sourceType":"module"}
+{"ast":null,"code":"import axios from 'axios';\nconst baseURL = false ? 'https://behelmpe.herokuapp.com/api' : `https://${process.env.SITE_NAME}/api`;\nconst publicFetch = axios.create({\n  baseURL\n});\nexport { publicFetch, baseURL };","map":null,"metadata":{},"sourceType":"module"}
